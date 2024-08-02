@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added automatic pushing script"
+git commit -m "Updated Website"
 git push -u origin main
