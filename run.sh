@@ -1,3 +1,3 @@
 git add .
-git commit -m "Enabled SEO for google search and added QR code functionality"
+git commit -m "Corrected Content tag obtained from Google Search Console"
 git push -u origin main
