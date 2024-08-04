@@ -1,3 +1,3 @@
 git add .
-git commit -m "Corrected Content tag obtained from Google Search Console"
+git commit -m "Few Changes"
 git push -u origin main
