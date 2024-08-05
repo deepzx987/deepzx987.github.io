@@ -8,7 +8,7 @@
     font-size: 20px; /* Adjust the font size as needed */
     text-align: center; /* Center align text within the paragraph */
   }
-  
+
   .custom-range + .custom-range {
     font-size: 60px; /* Different font size for the second paragraph */
     margin-top: 20px; /* Space between the two paragraphs */
